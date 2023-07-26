@@ -1,4 +1,4 @@
-# Selfkey.ID Payload Authorization Contracts
+# Selfkey ID Authorization
 
 ## Overview
 Selfkey ID Authorization Smart Contract.
