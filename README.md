@@ -1,6 +1,8 @@
 # Selfkey.ID Payload Authorization Contracts
 
 ## Overview
+Selfkey ID Authorization Smart Contract.
+Signature based authorization mechanism for onchain transactions.
 
 ## Development
 
